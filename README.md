@@ -1,2 +1,6 @@
 # Summer_Assignment_2401921520218
-4-week Summer Assignment repository containing daily LeetCode DSA solutions and weekly OOPS problems. Solutions are organized week-wise and day-wise with a focus on problem-solving, code quality, and consistency.
+This repository contains a 4-week summer assignment organized by week and day.
+
+Folder organization:
+- `Week_1` to `Week_4`
+- Each week includes `Day_1` to `Day_5` and an `OOPS` folder
